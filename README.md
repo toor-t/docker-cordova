@@ -1,3 +1,1 @@
-# README #
-
-Docker Hub を使う実験。
+cordova for docker.
